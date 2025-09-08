@@ -282,10 +282,11 @@ body {
     margin: auto;
 }
 
-.services-section h2 {
+#service {
     font-size: 2.5rem;
     color: #ab0000;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .divider {
@@ -1016,4 +1017,5 @@ body {
     }
 
 }
+
 
